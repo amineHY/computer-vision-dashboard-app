@@ -1,0 +1,14 @@
+# Python packages
+numpy
+imutils
+
+# Computer Vision
+opencv-python
+
+# Web application development framework
+streamlit
+
+# get data from URL
+pafy
+youtube-dl
+urllib3
